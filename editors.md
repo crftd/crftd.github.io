@@ -36,9 +36,27 @@ curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
-Download and install dr4f73d config:
+Download and install cr4f73d [config](examples/init.vim):
 
 ```bash
-curl -fLo ~/.config/nvim/init.vim --create-dirs
-
+curl -fLo ~/.config/nvim/init.vim --create-dirs https://raw.githubusercontent.com/crftd/crftd.github.io/master/examples/init.vim
 ```
+
+Open Neovim:
+
+```bash
+nvim
+```
+
+In command mode type `:PlugInstall` and wait installation to complete
+
+Compiling YCM language support
+
+```bash
+~/.local/share/nvim/plugged/youcompleteme/install.py --tern-completer --clang-completer
+```
+
+NERDTree will be open by default if you are opening directory via `nvim .`
+Default mapping to toggle NERDTree is `<C - n>` (Ctrl + n)
+
+Find more plugins at http://vimawesome.com/

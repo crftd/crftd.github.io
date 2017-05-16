@@ -21,6 +21,8 @@ Tools we are using in the hood
 
 *Webstorm is awesome* - [donate](https://rocketbank.ru/albert.fazullin)
 
+Looking for details? Check the [Editors Guide](editors.md).
+
 ### Musthave
 
 [nvm](https://github.com/creationix/nvm)
