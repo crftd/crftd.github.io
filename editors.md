@@ -79,7 +79,7 @@ atom .
 Install cr4f73d [packages](https://github.com/crftd/crftd.github.io/blob/master/examples/atom.packages)
 
 ```bash
-curl -fLo ~/crafted.packages https://github.com/crftd/crftd.github.io/blob/master/examples/atom.packages && \
+curl -fLo ~/crafted.packages https://raw.githubusercontent.com/crftd/crftd.github.io/master/examples/atom.packages && \
 apm i --packages-file ~/crafted.packages && \
 rm ~/crafted.packages
 ```
