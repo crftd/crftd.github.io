@@ -60,4 +60,4 @@ NERDTree will be open by default if you are opening directory via `nvim .`
 
 Default mapping to toggle NERDTree is `<C - n>` (Ctrl + n)
 
-Find more plugins at http://vimawesome.com/
+Find more plugins at (http://vimawesome.com/)
