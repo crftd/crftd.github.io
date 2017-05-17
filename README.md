@@ -13,7 +13,7 @@ Tools we are using in the hood
 
 ### Shell
 
-[zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH#howto-install-zsh-in-many-platforms) - Z Shell. Much better thanbash. Supports plugins and themes.
+[zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH#howto-install-zsh-in-many-platforms) - Z Shell. Much better than bash. Supports plugins and themes.
 
 [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Framework for managing zsh configuration.
 
