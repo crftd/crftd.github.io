@@ -36,7 +36,7 @@ curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
-Download and install cr4f73d [config](httpsgithub.com/crftd/crftd.github.io/blob/master/examples/init.vim):
+Download and install cr4f73d [config](https://github.com/crftd/crftd.github.io/blob/master/examples/init.vim):
 
 ```bash
 curl -fLo ~/.config/nvim/init.vim --create-dirs https://raw.githubusercontent.com/crftd/crftd.github.io/master/examples/init.vim
